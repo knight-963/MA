@@ -1,4 +1,14 @@
-section{
-    background-color: red;
+nav{
+    display: flex;
+    background-color: aqua;
+    height: 50px;
+}
+ul{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+a{
     color: white;
+    text-decoration: none;
 }
